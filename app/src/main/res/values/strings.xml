@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="entrance">Вход</string>
+    <string name="corectData">Верно</string>
+    <string name="incorectData">Вы ошиблись в логине или пароле</string>
+    <string name="registration_string">Регистрация</string>
+    <string name="sing_in_string">Вход</string>
+    <string name="download">Download</string>
+    <string name="welcomePhraza">Здравствуйте</string>
+</resources>
